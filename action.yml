@@ -1,5 +1,5 @@
 name: 'UUID Action Fork Node 20'
-description: 'Generate UUIDs.'
+description: 'Generate UUIDs Action.'
 inputs:
   name:
     description: 'create a UUID using a name.'
